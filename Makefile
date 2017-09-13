@@ -1,7 +1,7 @@
 .PHONY: bin image push release clean
 
 TAG=vancluever/nomad
-VERSION=0.5.6
+VERSION=0.6.3
 
 bin:
 	rm -rf 0.X/pkg
